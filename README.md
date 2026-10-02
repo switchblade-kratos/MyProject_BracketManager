@@ -1,1 +1,0 @@
-# MyProject_BracketManager
